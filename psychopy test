@@ -1,0 +1,885 @@
+{
+&quot;title&quot;: &quot;MS Group Questionnaires (pre-group) April 2023&quot;,
+&quot;logo&quot;:
+&quot;data:image/jpeg;base64,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
+REBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQE
+REBERAREQEREBERAREQEREBERA//9k=&quot;,
+&quot;logoPosition&quot;: &quot;right&quot;,
+&quot;completedHtmlOnCondition&quot;: [
+{
+&quot;html&quot;: &quot;Thank you for participating in this survey.&quot;
+},
+{
+&quot;html&quot;: &quot;Thank you for participating in this survey.&quot;
+}
+],
+&quot;pages&quot;: [
+{
+&quot;name&quot;: &quot;page1&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;question2&quot;,
+&quot;title&quot;: &quot;consent&quot;,
+&quot;html&quot;: &quot;&lt;h4 style=\&quot;text-align: center;\&quot;&gt;&lt;strong&gt;SVUH Neuropsychology Multiple
+Sclerosis Groups (February - March 2023)&lt;/strong&gt;&lt;/h4&gt;\n\n&lt;div style=\&quot;text-align:
+center;\&quot;&gt;Dr Fiadhnait O&#39;Keeffe, Dr Sarah O&#39;Connor, Christina Seery from SVUH
+Neuropsychology Service&amp;nbsp;&lt;br&gt;\n&lt;br&gt;&quot;
+}
+],
+&quot;title&quot;: &quot;Introduction&quot;
+},
+{
+&quot;name&quot;: &quot;page4&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;question4&quot;,
+&quot;html&quot;: &quot;&lt;h4&gt;We have a brief questionnaire which we would like you to complete. It will
+take approximately 15 - 20 minutes to answer all the questions on this questionnaire. We
+will ask you to complete these questions again at the end of the last group
+session.&amp;nbsp;&lt;/h4&gt;\n\n&lt;h4&gt;&amp;nbsp;&lt;/h4&gt;\n\n&lt;h4&gt;Please click below to proceed to the
+questionnaire.&lt;/h4&gt;&quot;
+}
+],
+
+&quot;title&quot;: &quot;Survey Overview&quot;
+},
+{
+&quot;name&quot;: &quot;page2&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;name&quot;,
+&quot;title&quot;: &quot;Full Name&quot;
+},
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;age&quot;,
+&quot;title&quot;: &quot;Age&quot;
+},
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;DOB&quot;,
+&quot;title&quot;: &quot;Date of Birth (DD/MM/YYYY)&quot;
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;consenttogroup&quot;,
+&quot;title&quot;: &quot;Do you consent to taking part in the MS group in April to May 2023?&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Yes&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;No&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;researchconsent&quot;,
+&quot;title&quot;: &quot;I give permission for my anonymous, aggregated data from this survey to used as
+part of routine service evaluation. Data is stored securely and processed by the
+Neuropsychology department in St. Vincent&#39;s University Hospital.&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Yes&quot;
+},
+{
+
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;No&quot;
+}
+]
+}
+],
+&quot;title&quot;: &quot;Contact Information&quot;
+},
+{
+&quot;name&quot;: &quot;page5&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;MStype&quot;,
+&quot;title&quot;: &quot;What type of MS do you have?&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Relapsing remitting MS&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Primary Progressive MS&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Secondary Progressive MS&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;Dateofdiagnosis&quot;,
+&quot;title&quot;: &quot;When were you first diagnosed with MS? (Enter a date)&quot;
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;DMT&quot;,
+&quot;title&quot;: &quot;What DMTs (disease modifying treatments) are you currently taking for MS?&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Gilenya&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Tysabri&quot;
+
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Tecfidera&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Mavenclad&quot;
+},
+{
+&quot;value&quot;: &quot;item5&quot;,
+&quot;text&quot;: &quot;Copaxone&quot;
+},
+{
+&quot;value&quot;: &quot;item6&quot;,
+&quot;text&quot;: &quot;Avonex&quot;
+},
+{
+&quot;value&quot;: &quot;item7&quot;,
+&quot;text&quot;: &quot;Ocrevus&quot;
+},
+{
+&quot;value&quot;: &quot;item8&quot;,
+&quot;text&quot;: &quot;None&quot;
+},
+{
+&quot;value&quot;: &quot;item9&quot;,
+&quot;text&quot;: &quot;Other (please specify in next question)&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;DMTother&quot;,
+&quot;title&quot;: &quot;If you indicated an &#39;Other&#39; Disease Modifying Treatment that you are currently
+taking, please specify here:&quot;
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;employmentstatus&quot;,
+&quot;title&quot;: &quot;Are you currently working?&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Yes, full time&quot;
+},
+{
+
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Yes, part time&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;I am a student&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not currently working / unemployed&quot;
+},
+{
+&quot;value&quot;: &quot;item5&quot;,
+&quot;text&quot;: &quot;Retired&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;gender&quot;,
+&quot;title&quot;: &quot;What is your gender?&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Male&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Female&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Non-binary&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Prefer to self-disclose (Please share in the next question)&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;text&quot;,
+&quot;name&quot;: &quot;question1&quot;,
+&quot;title&quot;: &quot;If you indicated that you would &#39;Prefer to self-disclose&#39; in relation to your gender
+in the previous question, please do so here:&quot;
+}
+],
+
+&quot;title&quot;: &quot;Demographics&quot;
+},
+{
+&quot;name&quot;: &quot;page6&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;rating&quot;,
+&quot;name&quot;: &quot;understanding&quot;,
+&quot;title&quot;: &quot;On a scale of 1-10 (1= not well at all/ 10= Extremely well), How well do you feel
+you understand the ‘invisible’ symptoms of MS (cognition, fatigue, pain, mood etc)&quot;,
+&quot;rateMax&quot;: 10,
+&quot;minRateDescription&quot;: &quot;1 = Not at all &quot;,
+&quot;maxRateDescription&quot;: &quot;10 = Extremely well&quot;
+}
+],
+&quot;title&quot;: &quot;Knowledge and Understanding&quot;
+},
+{
+&quot;name&quot;: &quot;page3&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;rating&quot;,
+&quot;name&quot;: &quot;management&quot;,
+&quot;title&quot;: &quot;On a scale of 1-10 (1= not well at all/ 10= Extremely well), How well do you feel
+you can manage the ‘invisible’ symptoms of MS (cognition, fatigue, pain, mood etc).&quot;,
+&quot;rateMax&quot;: 10,
+&quot;minRateDescription&quot;: &quot;1 = Not at all &quot;,
+&quot;maxRateDescription&quot;: &quot;10 = Extremely well&quot;
+}
+],
+&quot;title&quot;: &quot;Confidence in Managing&quot;
+},
+{
+&quot;name&quot;: &quot;HADS&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;HADSintro&quot;,
+&quot;html&quot;: &quot;&lt;p&gt;&lt;u&gt;Hosptial Anxiety &amp;amp; Depression Scale
+(HADS)&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;This questionnaire is designed to&amp;nbsp;help your
+clinician to know how you feel. Read each item below and underline the reply which comes
+closest to how you have been feeling in the past week. Don&#39;t take too long over your replies,
+your immediate reaction to each item will probably be more accurate than a long, thought-
+out response.&lt;/p&gt;&quot;
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+
+&quot;name&quot;: &quot;1HADS1&quot;,
+&quot;title&quot;: &quot;I feel tense or &#39;wound up&#39;&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Most of the time&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;A lot of the time&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;From time to time, occasionally&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS2&quot;,
+&quot;title&quot;: &quot;I still enjoy the things I used to enjoy&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Definitely as much&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Not quite as much&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Only a little&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Hardly at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS3&quot;,
+
+&quot;title&quot;: &quot;I get a sort of frightened feeling as if something awful is about to happen&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Very definitely and quite badly&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Yes, but not too badly&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;A little, but it doesn&#39;t worry me&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS4&quot;,
+&quot;title&quot;: &quot;I can laugh and see the funny side of things&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;As much as I always could&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Not quite so much now&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Definitely not so much now&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS5&quot;,
+&quot;title&quot;: &quot;Worrying thoughts go through my mind&quot;,
+
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;A great deal of the time&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;A lot of the time&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;From time to time, but not too often&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Only occasionally&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS6&quot;,
+&quot;title&quot;: &quot;I feel cheerful&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Not often&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Sometimes&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Most of the time&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS7&quot;,
+&quot;title&quot;: &quot;I can sit at ease and feel relaxed&quot;,
+&quot;choices&quot;: [
+
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Definitely&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Usually&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Not Often&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS8&quot;,
+&quot;title&quot;: &quot;I feel as if I am slowed down&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Nearly all the time&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Very often&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Sometimes&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS9&quot;,
+&quot;title&quot;: &quot;I get a sort of frightened feeling like &#39;butterflies&#39; in the stomach&quot;,
+&quot;choices&quot;: [
+{
+
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Occassionally&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Quite Often&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Very Often&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS10&quot;,
+&quot;title&quot;: &quot;I have lost interest in my appearance&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Definitely&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;I don&#39;t take as much care as I should&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;I may not take quite as much care&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;I take just as much care as ever&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS11&quot;,
+&quot;title&quot;: &quot;I feel restless as I have to be on the move&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+
+&quot;text&quot;: &quot;Very much indeed&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Quite a lot&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Not very much&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS12&quot;,
+&quot;title&quot;: &quot;I look forward with enjoyment to things&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;As much as I ever did&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Rather less than I used to&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Definitely less than I used to&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Hardly at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS13&quot;,
+&quot;title&quot;: &quot;I get sudden feelings of panic&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Very often indeed&quot;
+
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Quite often&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Not very often&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Not at all&quot;
+}
+]
+},
+{
+&quot;type&quot;: &quot;checkbox&quot;,
+&quot;name&quot;: &quot;1HADS14&quot;,
+&quot;title&quot;: &quot;I can enjoy a good book or radio or TV program&quot;,
+&quot;choices&quot;: [
+{
+&quot;value&quot;: &quot;item1&quot;,
+&quot;text&quot;: &quot;Often&quot;
+},
+{
+&quot;value&quot;: &quot;item2&quot;,
+&quot;text&quot;: &quot;Sometimes&quot;
+},
+{
+&quot;value&quot;: &quot;item3&quot;,
+&quot;text&quot;: &quot;Not often&quot;
+},
+{
+&quot;value&quot;: &quot;item4&quot;,
+&quot;text&quot;: &quot;Very often&quot;
+}
+]
+}
+],
+&quot;title&quot;: &quot;Hospital Anxiety and Depression Scale&quot;
+},
+{
+&quot;name&quot;: &quot;page3&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;WSASintro&quot;,
+
+&quot;html&quot;: &quot;&lt;p&gt;&lt;u&gt;Work and Social Adjustment Scale&lt;/u&gt;&lt;/p&gt;&lt;p&gt;People&#39;s problems
+sometimes affect their ability to do certain day-to-day tasks in their lives. To rate your
+problems look at each section and determine on the scale provided how much your
+problem impairs your ability to carry out the activity.&lt;/p&gt;&quot;
+},
+{
+&quot;type&quot;: &quot;matrix&quot;,
+&quot;name&quot;: &quot;WSAS&quot;,
+&quot;title&quot;: &quot;0 = Not at all, 3 = Slightly, 5 = Definitely, 8 = Very Severely&quot;,
+&quot;columns&quot;: [
+{
+&quot;value&quot;: &quot;0&quot;,
+&quot;text&quot;: &quot;0 = Not at all True&quot;
+},
+&quot;1&quot;,
+&quot;2&quot;,
+{
+&quot;value&quot;: &quot;3&quot;,
+&quot;text&quot;: &quot;3 = Slightly&quot;
+},
+&quot;4&quot;,
+{
+&quot;value&quot;: &quot;5&quot;,
+&quot;text&quot;: &quot;5 = Definitely&quot;
+},
+&quot;6&quot;,
+&quot;7&quot;,
+{
+&quot;value&quot;: &quot;8&quot;,
+&quot;text&quot;: &quot;8 = Very Severely&quot;
+}
+],
+&quot;rows&quot;: [
+&quot;1. Because of my MS my ability to work is impaired. &#39;0&#39; means &#39;not at all impaired&#39; and
+&#39;8&#39; means very severely impaired to the point I can&#39;t work.&quot;,
+&quot;2. Because of my MS my home management (cleaning, tidying, shopping, cooking,
+looking after home or the children, paying bills) is impaired.&quot;,
+&quot;3. Because of my MS my social leisure activities (with other people e.g. parties, bars,
+clubs, outings, visits, dating, home entertaining) are impaired.&quot;,
+&quot;4. Because of my MS, my private leisure activities (done alone, such as reading,
+gardening, collecting, sewing, walking alone) are impaired.&quot;,
+&quot;5. Because of my MS, my ability to form and maintain close relationships with others,
+including those I live with, is impaired.&quot;
+]
+}
+],
+&quot;title&quot;: &quot;Work and Social Adjustment Scale&quot;
+
+},
+{
+&quot;name&quot;: &quot;page7&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;VQIntro&quot;,
+&quot;html&quot;: &quot;&lt;p&gt;&lt;u&gt;Valuing Questionnaire&lt;/u&gt;&lt;/p&gt;&lt;p&gt;Please read each statement carefully
+and select the number which best describes how much the statement was true for you
+&lt;u&gt;during the past week, including today.&lt;/u&gt;&lt;/p&gt;&quot;
+},
+{
+&quot;type&quot;: &quot;matrix&quot;,
+&quot;name&quot;: &quot;VALQ&quot;,
+&quot;title&quot;: &quot;Valued Living&quot;,
+&quot;columns&quot;: [
+{
+&quot;value&quot;: &quot;1&quot;,
+&quot;text&quot;: &quot;1 = Not at all true&quot;
+},
+&quot;2&quot;,
+&quot;3&quot;,
+&quot;4&quot;,
+&quot;5&quot;,
+{
+&quot;value&quot;: &quot;6&quot;,
+&quot;text&quot;: &quot;6 = Completely true&quot;
+}
+],
+&quot;rows&quot;: [
+&quot;1. I spent a lot of the time thinking about the past or future, rather than being engaged
+in activities that mattered to me.&quot;,
+&quot;2. I was basically on &#39;auto-pilot&#39; most of the time.&quot;,
+&quot;3. I worked towards my goals even if I didn&#39;t feel motivated to.&quot;,
+&quot;4. I was proud about how I lived my life.&quot;,
+&quot;5. I made progress in areas of my life I care most about.&quot;,
+&quot;6. Difficult thoughts, feelings, or memories got in the way of what I really wanted to
+do.&quot;,
+&quot;7. I continued to get better at being the kind of person I want to be.&quot;,
+&quot;8. When things didn&#39;t go according to plan I gave up easily.&quot;,
+&quot;9. I felt like I had a purpose in life.&quot;,
+&quot;10. It seemed like I was just &#39;going through the motions&#39;, rather than focusing on what
+was important to me.&quot;
+]
+}
+],
+&quot;title&quot;: &quot;Valued Living&quot;
+
+},
+{
+&quot;name&quot;: &quot;page8&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;matrix&quot;,
+&quot;name&quot;: &quot;MSAS&quot;,
+&quot;title&quot;: &quot;Please respond to the following statements by selecting the answer that most
+closely matches your attitude about having MS.&quot;,
+&quot;columns&quot;: [
+{
+&quot;value&quot;: &quot;1&quot;,
+&quot;text&quot;: &quot;Strongly Agree&quot;
+},
+{
+&quot;value&quot;: &quot;2&quot;,
+&quot;text&quot;: &quot;Agree&quot;
+},
+{
+&quot;value&quot;: &quot;3&quot;,
+&quot;text&quot;: &quot;Not Sure&quot;
+},
+{
+&quot;value&quot;: &quot;4&quot;,
+&quot;text&quot;: &quot;Disagree&quot;
+},
+{
+&quot;value&quot;: &quot;5&quot;,
+&quot;text&quot;: &quot;Strongly Disagree&quot;
+}
+],
+&quot;rows&quot;: [
+&quot;1. Having MS is just one of many challenges in life&quot;,
+&quot;2. I think of my MS as a curse&quot;,
+&quot;3. I feel I’ve come to terms with my MS&quot;,
+&quot;4. I’d give all the money I have to get rid of my MS&quot;,
+&quot;5. I can’t conquer MS, but I can adapt to it&quot;,
+&quot;6. My fondest dream is that I’ll awaken some morning without my MSw 6&quot;,
+&quot;7. Having a disease like MS is just part of life&quot;,
+&quot;8. My MS is a major focal point in my life&quot;,
+&quot;9. Everyone has difficulties to live with; mine is MS&quot;,
+&quot;10. I spend a lot of time wondering why I have MS&quot;,
+&quot;11. Wondering why I have MS is just a waste of time&quot;,
+&quot;12. I think of my MS as just a part of who I am&quot;,
+&quot;13. I think a lot about what my life would be like without MS&quot;,
+&quot;14. MS is just one of many things that can happen to me&quot;
+]
+
+}
+],
+&quot;title&quot;: &quot;Attitudes Towards MS&quot;
+},
+{
+&quot;name&quot;: &quot;page9&quot;,
+&quot;elements&quot;: [
+{
+&quot;type&quot;: &quot;html&quot;,
+&quot;name&quot;: &quot;endofsurvey&quot;,
+&quot;html&quot;: &quot;&lt;p&gt;Thank you for taking part in this survey.&lt;/p&gt;&quot;
+}
+],
+&quot;title&quot;: &quot;End of Survey&quot;
+}
+],
+&quot;firstPageIsStarted&quot;: true
+}
+
+
+Why am I unable to record user responses from this survey? What part of the code has an error?
